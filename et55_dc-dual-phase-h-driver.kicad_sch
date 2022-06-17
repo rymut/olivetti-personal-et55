@@ -587,6 +587,11 @@
     (uuid f769fe60-e0a2-4aa5-8989-3f4bf94675b5)
   )
 
+  (text "Kontrola pozycji karetki ( prawo lewo) " (at 220.98 92.71 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 1cf59928-b492-404d-bd37-c53952b82403)
+  )
+
   (global_label "RST" (shape input) (at 130.81 88.9 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 0cb0b6ff-7e6a-45a3-b1b8-ee7dcebb5a90)

@@ -335,6 +335,10 @@
     [
       "f2e6b054-dd03-4706-8c2a-5d3f6c9f0af9",
       "dc-dual-phase-h-driver"
+    ],
+    [
+      "3ad910d9-e991-42f6-a40d-ba55015c61db",
+      "et55-daisy-wheel-type-driver"
     ]
   ],
   "text_variables": {}
